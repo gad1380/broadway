@@ -5,6 +5,7 @@ html {
 
 #navbar {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-position: center;
 }
 
 #title {
@@ -26,9 +27,14 @@ p {
   font-size: 14px;
 }
 
+a {
+  color: white;
+}
+
 #break {
   font-size: 23px;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-position: centr;
 }
 
 .bold {
